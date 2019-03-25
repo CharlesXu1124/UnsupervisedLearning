@@ -9,3 +9,5 @@ For example, "PCA_ionosphere" will execute the code
 
 link to the code and datasets:
 https://github.com/CharlesXu1124/UnsupervisedLearning
+https://archive.ics.uci.edu/ml/datasets/ionosphere
+http://www.vision.caltech.edu/Image_Datasets/Caltech101/
